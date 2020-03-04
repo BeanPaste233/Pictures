@@ -5,8 +5,8 @@ const ap = new APlayer({
     audio: [{
         name: 'No Promises',
         artist: 'Cheat Codes,Demi Lovato',
-        url: 'https://cdn.jsdelivr.net/gh/BeanPaste233/Pictures@1.2/No Promises/No Promises.mp3',
-        cover: 'https://cdn.jsdelivr.net/gh/BeanPaste233/Pictures@1.2/No Promises/cover.jpg',
-        lrc: 'https://cdn.jsdelivr.net/gh/BeanPaste233/Pictures@1.2/No Promises/lrc.lrc'
+        url: 'https://cdn.jsdelivr.net/gh/BeanPaste233/Pictures@1.4/No Promises/No Promises.mp3',
+        cover: 'https://cdn.jsdelivr.net/gh/BeanPaste233/Pictures@1.4/No Promises/cover.jpg',
+        lrc: 'https://cdn.jsdelivr.net/gh/BeanPaste233/Pictures@1.4/No Promises/lrc.lrc'
     }],
 });
