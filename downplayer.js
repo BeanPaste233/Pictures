@@ -2,6 +2,7 @@ const ap = new APlayer({
     container: document.getElementById('player'),
     fixed: true,
     autoplay: false,
+    lrctype: 3,
     audio: [{
         name: 'No Promises',
         artist: 'Cheat Codes,Demi Lovato',
